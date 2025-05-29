@@ -4,17 +4,20 @@
 
 The Klever Labs team takes the security of our projects seriously. We appreciate your efforts to responsibly disclose your findings and will make every effort to acknowledge your contributions.
 
+## 🚨 Security Vulnerability?
+
+**Please DO NOT open a public issue!** 
+
+Instead, email us at: **security@kleverlabs.dev**
+
 ## 📋 Reporting Process
 
-To report a security vulnerability, please follow these steps:
+To report a security vulnerability:
 
-1. **DO NOT** open a public issue on GitHub
-2. Email your findings to **security@kleverlabs.dev**
-3. Include the following information in your report:
-   - Description of the vulnerability
-   - Steps to reproduce the issue
-   - Potential impact of the vulnerability
-   - Suggested fix (if available)
+1. **Email** your findings to **security@kleverlabs.dev**
+2. **Encrypt** your message using our PGP key (available upon request)
+3. **Include** all relevant details (see below)
+4. **Wait** for our initial response within 48 hours
 
 ## 📧 What to Include in Your Report
 
@@ -78,4 +81,8 @@ For any security-related questions:
 - Email: security@kleverlabs.dev
 - PGP Key: [Available upon request]
 
-Thank you for helping keep Klever Labs and our users safe!
+---
+
+Thank you for helping keep Klever Labs and our users safe! 🙏
+
+*Last updated: January 2025*

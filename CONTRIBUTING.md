@@ -99,7 +99,7 @@ By contributing to Klever Labs, you agree that your contributions will be licens
 
 If you have questions about contributing, feel free to:
 - Open an issue in the relevant repository
-- Ask in our Discord or Telegram channels
+- Post in the Community Forum
 - Reach out to the maintainers
 
 Thank you for helping make Klever Labs an amazing community! 🚀

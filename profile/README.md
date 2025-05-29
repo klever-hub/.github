@@ -30,7 +30,9 @@ Here’s how you can help:
 - 🧑‍💻 Submit pull requests with improvements or new examples
 - 💬 Join discussions and shape the roadmap
 
-Check out our [Contributing Guide](https://github.com/Klever-labs/.github/blob/main/CONTRIBUTING.md) to get started.
+📖 **Resources:**
+- [Contributing Guide](https://github.com/Klever-labs/.github/blob/main/CONTRIBUTING.md) - How to contribute
+- [Security Policy](https://github.com/Klever-labs/.github/blob/main/SECURITY.md) - Report vulnerabilities
 
 ---
 
@@ -46,9 +48,9 @@ Check out our [Contributing Guide](https://github.com/Klever-labs/.github/blob/m
 
 ## 🌐 Stay Connected
 
-- 🧠 [Klever Docs](https://docs.klever.org/)
-- 📣 [Klever Community on Twitter](https://twitter.com/klever_io)
-- 💬 [Klever Community Forum](https://forum.klever.org)
+- 🧠 [Klever Documentation](https://docs.klever.org/)
+- 📣 [Twitter/X](https://twitter.com/klever_io)
+- 💬 [Community Forum](https://forum.klever.org)
 
 ---
 
