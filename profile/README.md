@@ -1,7 +1,7 @@
-# 🌟 Welcome to Klever Labs
+# 🌟 Welcome to Klever Hub
 
-**Klever Labs** is a **community-driven** space dedicated to building and sharing **examples, tools, and demo applications** for the [Klever Blockchain](https://klever.org/).  
-Whether you're just getting started or you're a seasoned blockchain dev, Klever Labs is your playground to experiment, learn, and collaborate.
+**Klever Hub** is a **community-driven** space dedicated to building and sharing **examples, tools, and demo applications** for the [Klever Blockchain](https://klever.org/).  
+Whether you're just getting started or you're a seasoned blockchain dev, Klever Hub is your playground to experiment, learn, and collaborate.
 
 ---
 
@@ -57,4 +57,4 @@ Here’s how you can help:
 ## 🚀 Join the Movement
 
 Build with us. Learn with us. Share with us.  
-**This is Klever Labs — by the community, for the community.**
+**This is Klever Hub — by the community, for the community.**
